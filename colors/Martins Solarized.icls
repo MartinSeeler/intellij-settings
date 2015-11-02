@@ -22,6 +22,11 @@
     <option name="WHITESPACES" value="eee8d5" />
   </colors>
   <attributes>
+    <option name="ABSTRACT_CLASS_NAME_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="b58900" />
+      </value>
+    </option>
     <option name="ANNOTATION_NAME_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="859900" />
@@ -38,6 +43,11 @@
     <option name="CLASS_NAME_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="b58900" />
+      </value>
+    </option>
+    <option name="CONSTRUCTOR_DECLARATION_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="cb4b16" />
       </value>
     </option>
     <option name="CTRL_CLICKABLE">
@@ -163,6 +173,7 @@
         <option name="EFFECT_TYPE" value="3" />
       </value>
     </option>
+    <option name="ENUM_NAME_ATTRIBUTES" baseAttributes="CLASS_NAME_ATTRIBUTES" />
     <option name="FOLDED_TEXT_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="839496" />
@@ -187,9 +198,16 @@
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="859900" />
-        <option name="BACKGROUND" value="eee8d5" />
+        <option name="BACKGROUND" value="dbd5c2" />
       </value>
     </option>
+    <option name="IGNORE.BRACKET" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="IGNORE.COMMENT" baseAttributes="DEFAULT_LINE_COMMENT" />
+    <option name="IGNORE.HEADER" baseAttributes="DEFAULT_DOC_COMMENT_TAG" />
+    <option name="IGNORE.SECTION" baseAttributes="DEFAULT_DOC_COMMENT" />
+    <option name="IGNORE.SLASH" baseAttributes="DEFAULT_COMMA" />
+    <option name="IGNORE.SYNTAX" baseAttributes="DEFAULT_INSTANCE_FIELD" />
+    <option name="IGNORE.VALUE" baseAttributes="DEFAULT_STRING" />
     <option name="INFO_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="dfead8" />
@@ -212,6 +230,11 @@
       </value>
     </option>
     <option name="Implicit conversion" baseAttributes="DEFAULT_IDENTIFIER" />
+    <option name="Interpolated String Injection">
+      <value>
+        <option name="FOREGROUND" value="6c71c4" />
+      </value>
+    </option>
     <option name="LINE_FULL_COVERAGE">
       <value>
         <option name="FOREGROUND" value="dfead8" />
@@ -236,6 +259,16 @@
         <option name="BACKGROUND" value="859900" />
       </value>
     </option>
+    <option name="METHOD_CALL_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="268bd2" />
+      </value>
+    </option>
+    <option name="METHOD_DECLARATION_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="268bd2" />
+      </value>
+    </option>
     <option name="NOT_USED_ELEMENT_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="839496" />
@@ -253,6 +286,10 @@
         <option name="FOREGROUND" value="d33682" />
       </value>
     </option>
+    <option name="STATIC_FINAL_FIELD_ATTRIBUTES" baseAttributes="STATIC_FIELD_ATTRIBUTES" />
+    <option name="STATIC_METHOD_ATTRIBUTES">
+      <value />
+    </option>
     <option name="Scala Immutable Collection">
       <value>
         <option name="FOREGROUND" value="859900" />
@@ -264,10 +301,21 @@
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
+    <option name="Scala Pattern value">
+      <value>
+        <option name="FOREGROUND" value="d33682" />
+      </value>
+    </option>
     <option name="Scala Predefined types">
       <value>
         <option name="FOREGROUND" value="859900" />
       </value>
+    </option>
+    <option name="Scala Template val">
+      <value />
+    </option>
+    <option name="Scala Template var">
+      <value />
     </option>
     <option name="Standart Java Collection">
       <value>
@@ -320,7 +368,7 @@
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="cb4b16" />
-        <option name="BACKGROUND" value="eee8d5" />
+        <option name="BACKGROUND" value="dbd5c2" />
       </value>
     </option>
     <option name="WRITE_SEARCH_RESULT_ATTRIBUTES">
