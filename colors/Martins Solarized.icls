@@ -228,7 +228,6 @@
         <option name="FOREGROUND" value="b58900" />
       </value>
     </option>
-    <option name="Implicit conversion" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="Interpolated String Injection">
       <value>
         <option name="FOREGROUND" value="6c71c4" />
@@ -309,12 +308,6 @@
       <value>
         <option name="FOREGROUND" value="859900" />
       </value>
-    </option>
-    <option name="Scala Template val">
-      <value />
-    </option>
-    <option name="Scala Template var">
-      <value />
     </option>
     <option name="Standart Java Collection">
       <value>
