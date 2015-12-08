@@ -56,6 +56,11 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
+    <option name="DEFAULT_ATTRIBUTE">
+      <value>
+        <option name="FOREGROUND" value="6c71c4" />
+      </value>
+    </option>
     <option name="DEFAULT_BLOCK_COMMENT">
       <value>
         <option name="FOREGROUND" value="839496" />
@@ -88,6 +93,12 @@
     <option name="DEFAULT_DOC_MARKUP">
       <value>
         <option name="BACKGROUND" value="eee8d5" />
+      </value>
+    </option>
+    <option name="DEFAULT_ENTITY">
+      <value>
+        <option name="FOREGROUND" value="d33682" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_IDENTIFIER">
@@ -146,6 +157,9 @@
       <value>
         <option name="FOREGROUND" value="2aa198" />
       </value>
+    </option>
+    <option name="DEFAULT_TAG">
+      <value />
     </option>
     <option name="DEFAULT_TEMPLATE_LANGUAGE_COLOR">
       <value>
@@ -377,6 +391,11 @@
     <option name="WRONG_REFERENCES_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="dc322f" />
+      </value>
+    </option>
+    <option name="XML_TAG_NAME">
+      <value>
+        <option name="FOREGROUND" value="268bd2" />
       </value>
     </option>
   </attributes>
