@@ -1,4 +1,7 @@
 <application>
+  <component name="ScalaApplicationSettings">
+    <option name="ADD_OVERRIDE_TO_IMPLEMENTED" value="false" />
+  </component>
   <component name="TypeAwareHighlightingApplicationState">
     <option name="SUGGEST_TYPE_AWARE_HIGHLIGHTING_ENABLED" value="true" />
   </component>
