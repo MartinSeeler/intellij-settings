@@ -1,4 +1,16 @@
 <keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
+  <action id="EditorChooseLookupItemReplace" />
+  <action id="EditorIndentSelection" />
+  <action id="EditorTab" />
+  <action id="EmacsStyleIndent">
+    <keyboard-shortcut first-keystroke="tab" />
+  </action>
+  <action id="ExpandLiveTemplateByTab" />
+  <action id="NextParameter" />
+  <action id="NextTemplateParameter" />
+  <action id="NextTemplateVariable">
+    <keyboard-shortcut first-keystroke="enter" />
+  </action>
   <action id="ShowUsages">
     <keyboard-shortcut first-keystroke="meta alt f7" />
     <keyboard-shortcut first-keystroke="ctrl alt u" />
