@@ -1,10 +1,4 @@
 <code_scheme name="Default (1)">
-  <ScalaCodeStyleSettings>
-    <option name="REPLACE_CASE_ARROW_WITH_UNICODE_CHAR" value="true" />
-    <option name="REPLACE_MAP_ARROW_WITH_UNICODE_CHAR" value="true" />
-    <option name="REPLACE_FOR_GENERATOR_ARROW_WITH_UNICODE_CHAR" value="true" />
-    <option name="REPLACE_LAMBDA_WITH_GREEK_LETTER" value="true" />
-  </ScalaCodeStyleSettings>
   <XML>
     <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
   </XML>
