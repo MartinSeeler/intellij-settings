@@ -1,5 +1,3 @@
 <templateSet group="scala">
-  <template name="scur" value="import scala.concurrent.duration._" description="Template to import scala durations" toReformat="true" toShortenFQNames="true">
-    <context />
-  </template>
+  <template name="scur" value="import scala.concurrent.duration._" description="Template to import scala durations" toReformat="true" toShortenFQNames="true" />
 </templateSet>
