@@ -5,6 +5,7 @@
     <EXCLUDED_PACKAGE NAME="akka.http.javadsl" />
     <EXCLUDED_PACKAGE NAME="akka.stream.javadsl" />
     <EXCLUDED_PACKAGE NAME="akka.stream.javadsl.GraphDSL" />
+    <EXCLUDED_PACKAGE NAME="com.sun.tools" />
   </component>
   <component name="DaemonCodeAnalyzerSettings">
     <option name="SHOW_METHOD_SEPARATORS" value="true" />
