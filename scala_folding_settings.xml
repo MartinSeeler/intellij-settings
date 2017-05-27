@@ -1,6 +1,0 @@
-<application>
-  <component name="ScalaCodeFoldingSettings">
-    <option name="collapseMultilineStrings" value="true" />
-    <option name="collapseTypeLambdas" value="true" />
-  </component>
-</application>
