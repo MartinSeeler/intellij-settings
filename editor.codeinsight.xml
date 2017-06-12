@@ -3,5 +3,6 @@
     <option name="SURROUND_SELECTION_ON_QUOTE_TYPED" value="true" />
     <EXCLUDED_PACKAGE NAME="akka.stream.javadsl" />
     <EXCLUDED_PACKAGE NAME="akka.stream.testkit.javadsl" />
+    <EXCLUDED_PACKAGE NAME="com.sun.tools" />
   </component>
 </application>
