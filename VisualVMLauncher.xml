@@ -1,5 +1,5 @@
 <application>
   <component name="VisualVMLauncher">
-    <option name="visualVmExecutable" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_74.jdk/Contents/Home/bin/jvisualvm" />
+    <option name="visualVmExecutable" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/bin/jvisualvm" />
   </component>
 </application>
